@@ -1,0 +1,1048 @@
+1524985838137	geckodriver	INFO	geckodriver 0.20.1
+1524985838152	geckodriver	INFO	Listening on 127.0.0.1:51175
+1524985841091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.uwbye1NcQr95"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524985844906	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524985850766	Marionette	INFO	Listening on port 51184
+1524985851450	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524985947667	geckodriver	INFO	geckodriver 0.20.1
+1524985947689	geckodriver	INFO	Listening on 127.0.0.1:51300
+1524985950659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.N1P5OFCDRniw"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524985952358	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524985955392	Marionette	INFO	Listening on port 51313
+1524985956246	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524986138657	geckodriver	INFO	geckodriver 0.20.1
+1524986138672	geckodriver	INFO	Listening on 127.0.0.1:51496
+1524986141581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.wUoByjROoKgm"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524986143336	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524986146294	Marionette	INFO	Listening on port 51506
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524986146904	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524986283654	geckodriver	INFO	geckodriver 0.20.1
+1524986283670	geckodriver	INFO	Listening on 127.0.0.1:51656
+1524986286592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.GEUL7CXTITfy"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524986288224	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524986291396	Marionette	INFO	Listening on port 51666
+1524986291920	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524987793126	geckodriver	INFO	geckodriver 0.20.1
+1524987793157	geckodriver	INFO	Listening on 127.0.0.1:61133
+1524987797094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.3nPTD4H6WJYF"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524987801336	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8364, Chrome_ChildThread] WARNING: pipe error: Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524987814532	Marionette	INFO	Listening on port 61141
+1524987815980	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524987981464	geckodriver	INFO	geckodriver 0.20.1
+1524987981464	geckodriver	INFO	Listening on 127.0.0.1:61223
+1524987984449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.QhxAnKuWu8a6"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524987985286	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524987988290	Marionette	INFO	Listening on port 61231
+1524987988714	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524988666023	geckodriver	INFO	geckodriver 0.20.1
+1524988666045	geckodriver	INFO	Listening on 127.0.0.1:61335
+1524988669031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.xVx9yApkdyTn"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524988669944	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524988672876	Marionette	INFO	Listening on port 61343
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524988673212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKaV4/yz/l/en_US/ik_MhxcopZy.js, line 1857: unreachable code after return statement
+[Parent 1700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524988931854	geckodriver	INFO	geckodriver 0.20.1
+1524988931869	geckodriver	INFO	Listening on 127.0.0.1:61426
+1524988934792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.aCtGTILBA6sQ"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524988936416	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524988939296	Marionette	INFO	Listening on port 61434
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524988940006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKaV4/yz/l/en_US/ik_MhxcopZy.js, line 1857: unreachable code after return statement
+[Parent 9656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524989218807	geckodriver	INFO	geckodriver 0.20.1
+1524989218823	geckodriver	INFO	Listening on 127.0.0.1:61510
+1524989221736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.IFgyJxSS72ib"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524989223508	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524989226550	Marionette	INFO	Listening on port 61518
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524989227066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKaV4/yz/l/en_US/ik_MhxcopZy.js, line 1857: unreachable code after return statement
+[Parent 9672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524993155969	geckodriver	INFO	geckodriver 0.20.1
+1524993155985	geckodriver	INFO	Listening on 127.0.0.1:61997
+1524993158927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.SlxxPkzQ3aY2"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524993159840	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524993162888	Marionette	INFO	Listening on port 62005
+1524993163334	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://mydy.dypatil.edu
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 118: TypeError: this.openedPopup.closePopup is not a function
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 118: TypeError: this.openedPopup.closePopup is not a function
+[Child 5236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524993261440	Marionette	INFO	Listening on port 62068
+1524993261786	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+[Child 3356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3356, Chrome[Child 4444, Chrome_ChildT*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524993314869	geckodriver	INFO	geckodriver 0.20.1
+1524993314885	geckodriver	INFO	Listening on 127.0.0.1:62121
+1524993317832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.Eq9eU0Sq3eoZ"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524993319404	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524993322264	Marionette	INFO	Listening on port 62129
+1524993323130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+JavaScript error: https://www.wikihow.com/Appear-to-Edit-Text-on-Any-Website, line 217: TypeError: gptAdSlots[id] is undefined
+[Parent 4876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524997234492	geckodriver	INFO	geckodriver 0.20.1
+1524997234512	geckodriver	INFO	Listening on 127.0.0.1:61066
+1524997237526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.RJuQQY4hm0hb"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524997239004	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524997243000	Marionette	INFO	Listening on port 61074
+1524997243338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+[Parent 7340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524997301265	geckodriver	INFO	geckodriver 0.20.1
+1524997301280	geckodriver	INFO	Listening on 127.0.0.1:61132
+1524997304242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.trCjdgTIeMHW"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524997305222	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524997308396	Marionette	INFO	Listening on port 61140
+1524997308448	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1060:3
+
+[Parent 10192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 592, Ch[Parent 10192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524997484899	geckodriver	INFO	geckodriver 0.20.1
+1524997484914	geckodriver	INFO	Listening on 127.0.0.1:61208
+1524997487852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.TNn8fHyYDzfK"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524997488780	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524997491666	Marionette	INFO	Listening on port 61216
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524997492036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+[Parent 7560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+AppData\Local\openvr\openvrpaths.vrpath
+1524997643962	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524997646730	Marionette	INFO	Listening on port 61286
+1524997647250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=mon.ban.rt15@rait.ac.in&wantsurl=, line 209: TypeError: M.theme_essential is undefined
+[Child 6908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6908, Chrom[Parent 8440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524998257469	geckodriver	INFO	geckodriver 0.20.1
+1524998257484	geckodriver	INFO	Listening on 127.0.0.1:61384
+1524998260454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.aV748dNYRzDI"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524998261402	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524998264588	Marionette	INFO	Listening on port 61392
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524998264652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/theme/jquery.php/core/jquery-1.11.2.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Parent 9824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2084, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 2084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524998315092	geckodriver	INFO	geckodriver 0.20.1
+1524998315107	geckodriver	INFO	Listening on 127.0.0.1:61440
+1524998318058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.r6VjQAcXEfFD"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524998318944	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524998321856	Marionette	INFO	Listening on port 61448
+1524998322234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+console.error: 
+  Message: TypeError: node is null
+  Stack:
+    getUsedFontFaces@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:268:9
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1788:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:761:7
+
+getUsedFontFaces@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:268:9
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1788:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:761:7
+console.error: 
+  Could not get the list of font families
+  Protocol error (unknownError): node is null
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+[Child 9536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu[Parent 10576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+abled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524999119460	Marionette	INFO	Listening on port 61558
+1524999119962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 3216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 3216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+423288	Marionette	INFO	Listening on port 61660
+1524999423734	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524999491267	geckodriver	INFO	geckodriver 0.20.1
+1524999491283	geckodriver	INFO	Listening on 127.0.0.1:61729
+1524999494221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.dVBznmUWNjCe"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524999495962	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524999499106	Marionette	INFO	Listening on port 61737
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1524999499712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5772, Chrome_ChildThread] WARNIN[Parent 1744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5948, Chrome_C[Child 2676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ble to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 9036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3656, Chrome_ChildTht.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 12036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pData\Local\openvr\openvrpaths.vrpath
+1525003312360	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525003319396	Marionette	INFO	Listening on port 60097
+[Child 6692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525003319872	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Script error for: core/first
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://mydy.dypatil.edu/rait/course/view.php?id=1163, line 497: TypeError: M.block_navigation is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 6232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10076, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525003475678	Marionette	INFO	Listening on port 60187
+1525003476926	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11496, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525003589654	geckodriver	INFO	geckodriver 0.20.1
+1525003589670	geckodriver	INFO	Listening on 127.0.0.1:60267
+1525003592529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.v5pqatlKYwyk"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525003594226	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525003597930	Marionette	INFO	Listening on port 60275
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525003598282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/course/view.php?id=1163, line 497: TypeError: M.block_navigation is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 1468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+hs.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525003688478	Marionette	INFO	Listening on port 60356
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525003689480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/course/view.php?id=1163, line 497: TypeError: M.block_navigation is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Script error for: core/first
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 8540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Data\Local\openvr\openvrpaths.vrpath
+1525003819674	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525003822898	Marionette	INFO	Listening on port 60432
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525003823868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 1672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525003899724	geckodriver	INFO	geckodriver 0.20.1
+1525003899739	geckodriver	INFO	Listening on 127.0.0.1:60515
+1525003902654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.ml84WMjq1AVA"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525003904508	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525003908300	Marionette	INFO	Listening on port 60523
+1525003908394	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Script error for: core/first
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 2804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9176, Chrome_C[Parent 2804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+al\openvr\openvrpaths.vrpath
+1525004010216	Marionette	INFO	Listening on port 60598
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525004011076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/course/view.php?id=1163, line 497: TypeError: M.block_navigation is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Script error for: core/first
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3981: TypeError: this.tabs is undefined
+[Child 11256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10808, Chrome_ChildThread] WARNJavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+[Child 8320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8320, Chrome[Parent 11924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vrpath
+1525005150110	Marionette	INFO	Listening on port 53215
+1525005150742	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525006301050	Marionette	INFO	Listening on port 53393
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525006301502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8592, ChromeUnable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+it/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[GPU 10432, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525007187176	geckodriver	INFO	geckodriver 0.20.1
+1525007187197	geckodriver	INFO	Listening on 127.0.0.1:53675
+1525007190089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.cvN3VsuGmV4h"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525007191338	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525007194856	Marionette	INFO	Listening on port 53684
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525007195380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525007290115	geckodriver	INFO	geckodriver 0.20.1
+1525007290129	geckodriver	INFO	Listening on 127.0.0.1:53753
+1525007293069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.rH3VOh3M93Ae"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525007294922	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525007298246	Marionette	INFO	Listening on port 53761
+1525007298316	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Script error for: core/first
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 10400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.BolmH2bitl4w"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525007549044	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525007552234	Marionette	INFO	Listening on port 53844
+1525007552370	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/course/view.php?id=1163, line 497: TypeError: M.block_navigation is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 10936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525007975378	Marionette	INFO	Listening on port 54025
+[Child 1608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1608, Chrome_ChildThread] WARNING: pipe error: 1091525007975956	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Script error for: core/first
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 792, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525008094725	geckodriver	INFO	geckodriver 0.20.1
+1525008094742	geckodriver	INFO	Listening on 127.0.0.1:54122
+1525008097582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.0WHa7rjlSCSD"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008099910	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008103524	Marionette	INFO	Listening on port 54130
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008103916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 1360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.4Js7k0xlLjSD"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008413978	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008417100	Marionette	INFO	Listening on port 54223
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008418124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Script error for: core/first
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 10856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+th
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008672162	Marionette	INFO	Listening on port 54653
+1525008673138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525008726038	geckodriver	INFO	geckodriver 0.20.1
+1525008726054	geckodriver	INFO	Listening on 127.0.0.1:54717
+1525008728966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.42OWi6dG7Kr4"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008730694	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008733850	Marionette	INFO	Listening on port 54725
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008734232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Script error for: core/first
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11320, Ch[Parent 1360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525008977572	geckodriver	INFO	geckodriver 0.20.1
+1525008977587	geckodriver	INFO	Listening on 127.0.0.1:55059
+1525008980418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MONISB~1\\AppData\\Local\\Temp\\rust_mozprofile.0ZXrsmxeBFIp"
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008982690	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525008987736	Marionette	INFO	Listening on port 55067
+1525008988262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Script error for: core/first
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://mydy.dypatil.edu/rait/course/view.php?id=1163, line 497: TypeError: M.block_navigation is undefined
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+[Parent 6344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10876, Chrome_ChildThread] W[GPU 11868, Chrome_ChildThread
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+O	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525009192730	Marionette	INFO	Listening on port 55417
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+1525009193734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/login/index.php?uname=kal.dha.rt15@rait.ac.in&wantsurl=, line 243: TypeError: M.theme_essential is undefined
+Unable to read VR Path Registry from C:\Users\Monis Bana\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: http://mydy.dypatil.edu/rait/lib/javascript.php/1524215314/lib/requirejs/require.min.js, line 12: Error: Mismatched anonymous define() module: function(){return nt}
+http://requirejs.org/docs/errors.html#mismatch
