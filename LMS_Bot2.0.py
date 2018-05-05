@@ -1,13 +1,11 @@
 from selenium import webdriver as wb
-from bs4 import BeautifulSoup as bs
-from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import time
 import csv
-
+import pyautogui as pa
+n = input("Enter no of subject ")
 file=open('lms.csv','r')
 reader=csv.reader(file,delimiter=',')
 for row in reader:
@@ -24,7 +22,7 @@ time.sleep(5)
 driver.find_element_by_name("password").send_keys(passw)
 driver.find_element_by_id("loginbtn").send_keys(Keys.ENTER)
 
-def readpercent():
+def readpercent(s):
     span1=driver.find_element(By.XPATH, '//*[@id="inst50217"]/div[2]/a/div').click()
     time.sleep(7)
     span=driver.find_element(By.XPATH, '//*[@id="inst50217"]/div[2]/a/div/span')
@@ -37,17 +35,23 @@ def readpercent():
     ChangeImg=driver.find_elements(By.XPATH,'//*[@class="pending"]/div/img[2]')
     for changeImg in ChangeImg:
         driver.execute_script("arguments[0].setAttribute('src','http://mydy.dypatil.edu/rait/theme/image.php/essential/core/1524215314/i/grade_incorrect')",changeImg)
-        
+    imageName = str(s)+".jpg"
+    pa.screenshot(imageName)
    
 	
 def launch():
-    time.sleep(5)
-    links=driver.find_elements_by_class_name('launchbutton')
-    links[1].send_keys(Keys.CONTROL+Keys.ENTER)
-    time.sleep(2)
-    window_after = driver.window_handles[1]
-    driver.switch_to_window(window_after)
-    readpercent()
+    i=0
+    while(i<int(n)):
+        time.sleep(5)
+        links=driver.find_elements_by_class_name('launchbutton')
+        links[i].send_keys(Keys.CONTROL+Keys.ENTER)
+        time.sleep(2)
+        window_after = driver.window_handles[1]
+        window_before = driver.window_handles[0]
+        driver.switch_to_window(window_after)
+        readpercent(i)
+        driver.switch_to_window(window_before)
+        i=i+1
     
 launch()
 
