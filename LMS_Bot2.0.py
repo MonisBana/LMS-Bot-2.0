@@ -1,13 +1,22 @@
+import time
+import csv
+import pyautogui as pa
+import smtplib
+import os
+import random
 from selenium import webdriver as wb
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.wait import WebDriverWait
-import time
-import csv
-import pyautogui as pa
-n = input("Enter no of subject ")
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.base import MIMEBase
+from email.mime.application import MIMEApplication
+NoofSubject = input("Enter no of subject ")
+n = int(NoofSubject)-1
 file=open('lms.csv','r')
 reader=csv.reader(file,delimiter=',')
+fileName= []
 for row in reader:
     user=row[0]
     passw=row[1]
@@ -24,24 +33,59 @@ driver.find_element_by_id("loginbtn").send_keys(Keys.ENTER)
 
 def readpercent(s):
     span1=driver.find_element(By.XPATH, '//*[@id="inst50217"]/div[2]/a/div').click()
-    time.sleep(7)
+    time.sleep(5)
     span=driver.find_element(By.XPATH, '//*[@id="inst50217"]/div[2]/a/div/span')
-    driver.execute_script("arguments[0].innerText = '200%'",span)
+    Totalelem=driver.find_element(By.XPATH,'//*[@class="text_pending"]/p[1]')
+    Viewedelem=driver.find_element(By.XPATH,'//*[@class="text_pending"]/p[2]')
+    NotViewedelem=driver.find_element(By.XPATH,'//*[@class="text_pending"]/p[3]')
+    percent = random.randint(90,99)
+    Total=Totalelem.text[-2:]
+    Viewed=float(Total)*(percent/100)
+    ViewdStr="Viewed:\n"+str(int(Viewed))
+    NotViewed=float(Total)-Viewed
+    NotViewdStr="Not Viewed:\n"+str(int(NotViewed))
+    driver.execute_script("arguments[0].innerText ='%s'%",span)%str(percent)
+    driver.execute_script("arguments[0].innerText ="+str(ViewdStr),Viewedelem)
+    driver.execute_script("arguments[0].innerText ="+str(NotViewdStr),NotViewedelem)
     pie = driver.find_element(By.XPATH, '//*[@id="inst50217"]/div[2]/a/div')
-    driver.execute_script("arguments[0].setAttribute('class', 'c100 p24 green')",pie)
+    pieString="arguments[0].setAttribute('class','c100 p%s green')"%str(percent)
+    driver.execute_script(pieString,pie)
     Links=driver.find_elements(By.XPATH, '//*[@id="couaclist"]/a')
     for link in Links:
-        driver.execute_script("arguments[0].setAttribute('class', 'pending')",link)
-    ChangeImg=driver.find_elements(By.XPATH,'//*[@class="pending"]/div/img[2]')
+        driver.execute_script("arguments[0].setAttribute('class', 'completed')",link)
+    ChangeImg=driver.find_elements(By.XPATH,'//*[@class="completed"]/div/img[2]')
     for changeImg in ChangeImg:
-        driver.execute_script("arguments[0].setAttribute('src','http://mydy.dypatil.edu/rait/theme/image.php/essential/core/1524215314/i/grade_incorrect')",changeImg)
+        driver.execute_script("arguments[0].setAttribute('src','http://mydy.dypatil.edu/rait/theme/image.php/essential/core/1524215314/i/caution1')",changeImg)
     imageName = str(s)+".jpg"
     pa.screenshot(imageName)
-   
-	
+  
+def email():
+    j=0
+    while(j<=int(n)):
+        fileName.append(str(j)+".jpg")
+        j=j+1
+    print (fileName)    
+    msg = MIMEMultipart()
+    fromaddr = 'monisbana97@gmail.com'
+    toaddrs  = ['monisbana97@gmail.com']
+    username = 'monisbana97@gmail.com'
+    password = ''#Enter password
+    for f in fileName:
+        file_path = f
+        attachment = MIMEApplication(open(file_path, "rb").read(), _subtype="txt")
+        attachment.add_header('Content-Disposition','attachment', filename=f)
+        msg.attach(attachment)
+    server = smtplib.SMTP('smtp.gmail.com:587')
+    server.ehlo()
+    server.starttls()
+    server.login(username,password)
+    server.sendmail(fromaddr, toaddrs, msg.as_string())
+    server.quit()
+    
+       
 def launch():
     i=0
-    while(i<int(n)):
+    while(i<=int(n)):
         time.sleep(5)
         links=driver.find_elements_by_class_name('launchbutton')
         links[i].send_keys(Keys.CONTROL+Keys.ENTER)
@@ -52,6 +96,7 @@ def launch():
         readpercent(i)
         driver.switch_to_window(window_before)
         i=i+1
-    
+    email()
 launch()
+
 
