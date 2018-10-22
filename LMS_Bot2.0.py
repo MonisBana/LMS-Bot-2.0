@@ -12,14 +12,17 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email.mime.application import MIMEApplication
-NoofSubject = input("Enter no of subject ")
-n = int(NoofSubject)-1
 file=open('lms.csv','r')
 reader=csv.reader(file,delimiter=',')
 fileName= []
 for row in reader:
     user=row[0]
     passw=row[1]
+    NoofSubject=row[2]
+    Emailid=row[3]
+    passwrd=row[4]
+    
+n = int(NoofSubject)-1
 
 driver=wb.Firefox()
 driver.maximize_window()
@@ -38,17 +41,17 @@ def readpercent(s):
     Totalelem=driver.find_element(By.XPATH,'//*[@class="text_pending"]/p[1]')
     Viewedelem=driver.find_element(By.XPATH,'//*[@class="text_pending"]/p[2]')
     NotViewedelem=driver.find_element(By.XPATH,'//*[@class="text_pending"]/p[3]')
-    percent = random.randint(90,99)
+    percent = 100
     Total=Totalelem.text[-2:]
     Viewed=float(Total)*(percent/100)
     ViewdStr="Viewed:\n"+str(int(Viewed))
     NotViewed=float(Total)-Viewed
     NotViewdStr="Not Viewed:\n"+str(int(NotViewed))
-    driver.execute_script("arguments[0].innerText ='%s'%",span)%str(percent)
-    driver.execute_script("arguments[0].innerText ="+str(ViewdStr),Viewedelem)
-    driver.execute_script("arguments[0].innerText ="+str(NotViewdStr),NotViewedelem)
+    driver.execute_script('arguments[0].innerText = "100%";',span)
+    #driver.execute_script("arguments[0].innerText ="+str(ViewdStr),Viewedelem)
+    #driver.execute_script("arguments[0].innerText ="+str(NotViewdStr),NotViewedelem)
     pie = driver.find_element(By.XPATH, '//*[@id="inst50217"]/div[2]/a/div')
-    pieString="arguments[0].setAttribute('class','c100 p%s green')"%str(percent)
+    pieString="arguments[0].setAttribute('class','c100 p100 green')"
     driver.execute_script(pieString,pie)
     Links=driver.find_elements(By.XPATH, '//*[@id="couaclist"]/a')
     for link in Links:
@@ -58,7 +61,7 @@ def readpercent(s):
         driver.execute_script("arguments[0].setAttribute('src','http://mydy.dypatil.edu/rait/theme/image.php/essential/core/1524215314/i/caution1')",changeImg)
     imageName = str(s)+".jpg"
     pa.screenshot(imageName)
-  
+
 def email():
     j=0
     while(j<=int(n)):
@@ -66,10 +69,11 @@ def email():
         j=j+1
     print (fileName)    
     msg = MIMEMultipart()
-    fromaddr = 'monisbana97@gmail.com'
-    toaddrs  = ['monisbana97@gmail.com']
-    username = 'monisbana97@gmail.com'
-    password = ''#Enter password
+    fromaddr = Emailid
+    toaddrs  = [Emailid]
+    username = Emailid
+    password = passwrd
+    print(password)
     for f in fileName:
         file_path = f
         attachment = MIMEApplication(open(file_path, "rb").read(), _subtype="txt")
@@ -81,7 +85,7 @@ def email():
     server.login(username,password)
     server.sendmail(fromaddr, toaddrs, msg.as_string())
     server.quit()
-    
+
        
 def launch():
     i=0
